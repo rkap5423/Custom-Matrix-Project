@@ -1,0 +1,7 @@
+The mymatrix class provides a matrix (2D array) abstraction.
+The size can grow dynamically in both directions (rows and cols).  
+Also, rows can be "jagged" --- i.e. rows can have different column sizes, 
+and thus the matrix is not necessarily rectangular.
+
+"mymatrix.h" contains the code for the functioning matrix abstraction, while "main.cpp" contains
+test cases designed to ensure the program functions properly. 
